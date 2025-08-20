@@ -276,6 +276,15 @@ Locations:
 
 ## Kitale
 
+### Elgon Tech Hub
+- **Contact**: +254 704108140
+- **Location**: Kitale Town, Kenyatta Street, Meisuria building
+- **Operating Hours**: Monday - Friday, 6:00 AM - 7:00 PM
+- **Membership**: Starting from KES 3,000/month
+- **Amenities**: Co-working space, training facilities
+- **Focus**: Technology training, Innovation and Business incubation
+- **Programs**: Training Programs, Innovation & Collaboration and Business support
+
 ### Trans Nzoia Tech Hub
 - **Contact**: +254 722 678 901
 - **Location**: Kitale Town, Kenyatta Street
